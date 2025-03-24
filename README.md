@@ -16,3 +16,9 @@ If you have any questions or encounter any issues, don't hesitate to open an iss
 
 ### Gallery
 ![image](https://github.com/user-attachments/assets/ec1f5f57-5791-4f8c-8728-8d0bc5b80d07)
+
+### Planned Features
+The following are planned but not implemented yet:
+- selection of multiple containers but not all
+- interactive UI interface
+- search parameters / basic filtering
